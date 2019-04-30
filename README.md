@@ -1,18 +1,18 @@
 # JavaScript Code Challenge
 
 ## Allowed Resources
-This Code Challenge is designed to test your abilities in a similar situation to a technical assessment from an employer. In order to achieve an accurate assessment, there are a few restrictions on the resources you may use to complete this code challenge. 
+This Code Challenge is designed to test your abilities in a similar situation to a technical assessment from an employer. In order to achieve an accurate assessment, there are a few restrictions on the resources you may use to complete this code challenge.
 
 ### Allowed
 
  1. Your brain!
  2. The Debugger. Please run and debug your code
  3. The general internet
- 
+
 ### Not Allowed
 
  1. Other students
- 2. Any prepared materials 
+ 2. Any prepared materials
  3. Any lessons
  4. Any solution code from any lab, whether you wrote it or Flatiron School did
  5. Code from any lecture
@@ -88,18 +88,18 @@ Example Response:
 
 Use the data from the API response to change what's currently on the page (take a look at the already provided `index.html`). You will need to add/update:
 
-- the image url
-- the image name
-- the number of likes
-- any comments in an unordered list
+<!-- - the image url -->
+<!-- - the image name -->
+<!-- - the number of likes -->
+<!-- - any comments in an unordered list -->
 
 (If you cannot get your fetch request to work correctly, you can  use the example response above to append content to the DOM and attempt the subsequent steps)
 
 ## Step 2 - Like Feature (Frontend)
 
-The next feature to approach is the functionality to add likes to a picture. First, get this working in the browser only without worrying about persistence.
+<!-- The next feature to approach is the functionality to add likes to a picture. First, get this working in the browser only without worrying about persistence. -->
 
-Clicking the 'Like' button should increase the number of likes shown on the page by one.
+<!-- Clicking the 'Like' button should increase the number of likes shown on the page by one. -->
 
 A user can like the same picture multiple times.
 
@@ -148,9 +148,9 @@ To test your code, make sure the number of likes increments when you click the l
 
 ## Step 4 - Comment Feature (Frontend)
 
-The next feature to approach is the functionality to add comments to a picture. First, get this working in the browser only, without worrying about persistence.
+<!-- The next feature to approach is the functionality to add comments to a picture. First, get this working in the browser only, without worrying about persistence. -->
 
-Filling out the input and clicking 'Submit' should append your new comment as an `<li>` to the comments unordered list element. You should also clear out the text in the comment input, so it's empty and ready for the next comment to be added.
+<!-- Filling out the input and clicking 'Submit' should append your new comment as an `<li>` to the comments unordered list element. You should also clear out the text in the comment input, so it's empty and ready for the next comment to be added. -->
 
 ## Step 5 - Comment Feature (Backend)
 
